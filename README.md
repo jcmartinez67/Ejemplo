@@ -1,4 +1,4 @@
-# Simulacion2017
+# Simulacion Otoño2017
 En este repositorio se encuentran las notas para el curso de simulación matemática. Material adicional será proporcionado durante clases. 
 
 Este curso consiste de tres módulos. 
